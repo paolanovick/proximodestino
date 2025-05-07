@@ -28,14 +28,14 @@ export const datosAgenciaSimuladaBack: AgenciaBackData = {
   buscador_color_terciario: "white",
 
   publicidad_existe: true,
-  publicidad_titulo: "Ofertas imperdibles",
+  publicidad_titulo: "Próximas Salidas",
   publicidad_tipografia_color: "#C62828",
   publicidad_color_primario: "#C62828",
   publicidad_color_secundario: "#EF9A9A",
   publicidad_color_terciario: "#8E0000",
-  publicidad_imagen_1: "paginaWeb/arboleda.jpg",
-  publicidad_imagen_2: "paginaWeb/colombia.jpg",
-  publicidad_imagen_3: "paginaWeb/rocas.jpg",
+  publicidad_imagen_1: "paginaWeb/publicidad1.png",
+  publicidad_imagen_2: "paginaWeb/publicidad2.png",
+  publicidad_imagen_3: "paginaWeb/publicidad3.png",
 
   tarjetas_titulo: "Destinos recomendados",
   tarjetas_tipografia: "Verdana",
