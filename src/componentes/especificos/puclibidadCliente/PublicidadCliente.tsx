@@ -101,7 +101,7 @@ const PublicidadCliente: React.FC = () => {
           alt={`Publicidad ${index + 1}`}
           sx={{
             width: "100%",
-            height: { xs: "250px", sm: "400px" , lg: "700px"}, // responsive
+            height: { xs: "250px", sm: "400px" }, // responsive
             objectFit: "cover",
             borderRadius: "15px",
           }}
